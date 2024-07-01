@@ -1,15 +1,12 @@
 # Introduction
-
 Criptic is a Web3 NFT Crypto Dashboard Template built with React, NextJS, TypeScript, and Tailwind CSS.
 
 ## Navigation
-
 You can find different topics in the table of contents. On desktop, you should see it in the left
 sidebar. On mobile, you should see it after pressing an icon with Hamberger in the top right
 corner.
 
 ## Supported Platforms
-
 Compatible Browsers (Firefox, Safari, Chrome, Edge)
 
 Node.js 16.15.1 or later
@@ -17,13 +14,11 @@ Node.js 16.15.1 or later
 MacOS, Windows (including WSL), and Linux are supported
 
 ## Requirements
-
 - node(16.15.1 or later)
 - yarn
 - editor: VS code (recommended)
 
 ## Installation
-
 For getting started with the template you have to follow the below procedure: Open project directory and run below command.
 
 ```sh
@@ -48,7 +43,6 @@ You can run below commands in the root folder for your need.
 ```
 
 ## Technologies we used
-
 - [NextJs](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)[ ](https://tailwindcss.com/)[CSS](https://tailwindcss.com/)
@@ -57,7 +51,6 @@ You can run below commands in the root folder for your need.
 - [web3modal](https://web3modal.com/)
 
 ## For customizing the template's default site settings:
-
 - To customize tailwind configuration go to -> `tailwind.config.js` file.
 
 - `/public`: To change your app favicon images here.
@@ -109,7 +102,6 @@ To add a custom icon please follow this procedure.
 5.  If your custom SVG code has any single custom color then change them into fillColor.
 
 ## New Static Page
-
 Out template is built React and NextJS framework. So all the existing pages are available to this
 
 location. You can create new pages from:
@@ -132,7 +124,6 @@ You can use or customize these helper functions according to your needs.
 Check out [Next.js](https://nextjs.org/docs/deployment)[ ](https://nextjs.org/docs/deployment)[deployment](https://nextjs.org/docs/deployment)[ ](https://nextjs.org/docs/deployment)[documentation](https://nextjs.org/docs/deployment)[ ](https://nextjs.org/docs/deployment)for more details. deploy
 
 ## SEO
-
 You can check next js metadata api for SEO
 
 <https://nextjs.org/docs/app/building-your-application/optimizing/metadata>
@@ -142,7 +133,6 @@ We have not used any analytics integration in this template yet. But, you can ea
 analytics using [Next](https://github.com/vercel/next.js/tree/canary/examples)[ ](https://github.com/vercel/next.js/tree/canary/examples)[JS](https://github.com/vercel/next.js/tree/canary/examples)[ ](https://github.com/vercel/next.js/tree/canary/examples)[examples](https://github.com/vercel/next.js/tree/canary/examples).
 
 ## Support
-
 There are some basic requirements for our application so that support team can help you
 quick such as,
 
